@@ -1,0 +1,3 @@
+- Hi, I’m rJect
+- I’m interested in gamedev
+- I’m currently learning UE4 and C++
